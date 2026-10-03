@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rishabhDevP
-- 👀 I’m interested in coding adventures although i have no prior coding knowledge. I am a electrical guy.
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m electrical and Software engineer so little different combination and i develop the apps for energy sector.
 - 💞️ I’m looking to collaborate on Dont Know...
 - 📫 How to reach me mishra.rishabh11@gmail.com
 
